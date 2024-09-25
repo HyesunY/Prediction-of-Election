@@ -38,8 +38,8 @@ url = 'https://naveropenapi.apigw.ntruss.com/sentiment-analysis/v1/analyze'
 
 # 네이버 개발자 센터에서 받은 클라이언트 ID와 시크릿을 사용하여 헤더 설정
 headers = {
-    'X-NCP-APIGW-API-KEY-ID': 'minofcpf4w',
-    'X-NCP-APIGW-API-KEY': 'SPBfwHMBuW6Wnzk3McRaWPMfUJfjnugTOtSSBmTG'
+    'X-NCP-APIGW-API-KEY-ID': ' ',
+    'X-NCP-APIGW-API-KEY': ' '
 }
 
 # 감정 분석 함수 정의
